@@ -5,10 +5,11 @@ Welcome to my GitHub! I'm passionate about **frontend development** and love cra
 ---
 
 ## 🚀 About Me  
-🔹"I work with frontend technologies, primarily React.js and UI/UX design."
-🔹"I have experience in building web applications with a structured approach."
-🔹"I also have knowledge of project management and workflow optimization."
-🔹"I have also worked with Web Components, creating reusable and modular UI elements."
+🔹 I work with frontend technologies, primarily React.js and UI/UX design.  
+
+🔹 I have experience in building web applications with a structured approach.  
+
+🔹 I also have knowledge of project management and workflow optimization.  
 
 ---
 
